@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Курсовая</string>
+    <string name="navigation_drawer_open">Открыть меню</string>
+    <string name="navigation_drawer_close">Закрыть меню</string>
+    <string name="nav_header_title">Тут будет название</string>
+    <string name="nav_header_subtitle"></string>
+    <string name="nav_header_desc">Заголовок меню</string>
+    <string name="action_settings">Настройки</string>
+
+    <string name="menu_1">Главная</string>
+    <string name="menu_2">Пунктик</string>
+    <string name="menu_3">Статистика</string>
+</resources>
